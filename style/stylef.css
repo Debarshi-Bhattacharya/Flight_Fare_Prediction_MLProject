@@ -1,0 +1,46 @@
+
+body {
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url(images/bg.webp);
+    -webkit-background-size: cover;
+    background-size: 100%;
+    background-position: center center;
+    
+}
+
+.header{
+    position: absolute;
+    width: 50%;
+    top: 6%;
+    left: 23%;
+    padding: 30px 30px 0px;
+    border-radius: 20px;
+    text-align: center;
+    background:rgba(255,255,255,0.3);
+    backdrop-filter: blur(10px);
+}
+
+.navbar {
+    background-color: #333333;
+    text-align: center;
+    left: 35%;
+}
+
+a {
+    color: #f1f9f9;
+    text-align: center;
+    left: 35%;
+}
+.container{
+    
+}
+.container-fluid
+{
+
+}
+a:hover {
+    color: #f0f0f0;
+    text-align: center;
+    left: 35%;
+  }
